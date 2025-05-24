@@ -11,7 +11,3 @@ The virtual pet game lets you adopt from one of three species —lizard, cat,  o
 
 
 
-    Target Audience : The Virtual Pet Game is designed for individuals who love animals and dream of having a pet, but may not be able to care for a real one due to practical constraints. This includes people with busy lifestyles, limited living space, or unpredictable schedules that make traditional pet ownership challenging. It also appeals to those who are unsure about their ability to care for a real pet and want to explore the responsibility in a low-risk, digital environment.
-
-
-
