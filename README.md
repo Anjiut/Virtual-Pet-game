@@ -3,11 +3,7 @@ The virtual pet game lets you adopt from one of three species —lizard, cat,  o
 
 
 
-   After six cycles, if your pet’s health remains at least 80% of its initial value, you’re given a choice of whether or not to adopt a second pet. Two pets of the same species (except lizards) enjoy slower health decline and happiness decay but grow hungry faster. Lizards must always be raised alone, so raising two lizards have no differences with raising one. 
-
-    
-
-    Type Quit to exit the game.
+   After six cycles, if your pet’s health remains at least 80% of its initial value, you’re given a choice of whether or not to adopt a second pet. Two pets of the same species (except lizards) enjoy slower health decline and happiness decay but grow hungry faster. Lizards must always be raised alone, so raising two lizards have no differences with raising one. Type Quit to exit the game.
 
 
 
